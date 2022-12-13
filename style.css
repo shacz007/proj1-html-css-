@@ -100,3 +100,14 @@ button:hover span{
 button:hover span{
     border: none;
 }
+.list{
+    color: white;
+    font-weight: 200px;
+    font-size: medium;
+    margin-left: 20%;
+    padding: 20px 0;
+}
+#alfa{
+    font-weight: bold;
+    
+}
